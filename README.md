@@ -1,8 +1,9 @@
+<img src="calculator.png" align="right" width="200px" height="200px"/>
 
+# Calculator Project  &nbsp; ![Static Badge](https://img.shields.io/badge/CALCULATOR%20-%20C%20-%20%236515DD)
 
-# Calculator Project
-
-Welcome to the Calculator project! This is a simple web-based calculator that allows you to perform basic mathematical operations. 
+> Welcome to the Calculator project!
+This is a simple web-based calculator that allows you to perform basic mathematical operations. 
 This project utilizes HTML, CSS, and JavaScript to create a user-friendly calculator interface with an index.html file, a style.css file, and an onclick event in JavaScript.
 
 
@@ -19,6 +20,10 @@ To use the calculator, open the index.html file in a web browser. You will see a
 - Click on the operator buttons (+, -, *, /) to select the operation you want to perform.
 - Click on the equal button (=) to calculate the result.
 - Click on the Clear All button (Clear All) to clear the calculator's output.
+  
+![Screenshot 2023-07-16 221429](https://github.com/Sachin001s/Calculator_Project/assets/128379424/2c347d5b-c2cf-4a55-87d9-59535c86a7c6)
+
+
 ## Customization
 If you wish to customize the calculator's appearance, you can modify the style.css file. Feel free to adjust the colors, fonts, sizes, and other CSS properties to suit your preferences.
 ## Customizing the Style
